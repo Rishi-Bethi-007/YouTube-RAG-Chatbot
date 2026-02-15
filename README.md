@@ -161,6 +161,7 @@ This project demonstrates:
 
 # 📂 Project Structure
 
+````
 youtube-multi-video-playlist-rag/
 ├─ app.py
 ├─ requirements.txt
@@ -177,7 +178,7 @@ youtube-multi-video-playlist-rag/
 ├─ rerank.py
 ├─ memory.py
 └─ eval/
-
+````
 
 # 🌍 Deployment
 
