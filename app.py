@@ -11,7 +11,7 @@ from src.retrieve import answer_question
 init_db()
 
 st.set_page_config(page_title="YouTube RAG (Prod-style)", layout="wide")
-st.title("YouTube Multi-Video / Playlist RAG (Pinecone + Postgres + Redis)")
+st.title("YouTube Chatbot")
 
 with st.sidebar:
     st.subheader("Dataset")
