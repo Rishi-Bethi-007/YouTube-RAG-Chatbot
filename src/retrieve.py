@@ -207,4 +207,5 @@ def answer_question(question: str, namespace: str, summary: str = "", recent_tur
         "cache": cache_info,
         "retrieved_candidates": len(ids),
         "used_context": len(reranked),
+        "contexts_used": contexts,
     }
